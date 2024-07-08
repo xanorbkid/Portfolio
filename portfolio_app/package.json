@@ -1,0 +1,27 @@
+{
+  "name": "portfolio_app",
+  "version": "1.0.0",
+  "description": "My Personal Portfolion design with Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanorbkid/Portfolio.git"
+  },
+  "keywords": [
+    "xanorbkid",
+    "npm",
+    "start"
+  ],
+  "author": "Xanorbkid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xanorbkid/Portfolio/issues"
+  },
+  "homepage": "https://github.com/xanorbkid/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
